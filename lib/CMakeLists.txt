@@ -1,0 +1,1 @@
+add_library(SandPile parser.cpp parser.h sandpile.cpp sandpile.h BMP.cpp BMP.h)
